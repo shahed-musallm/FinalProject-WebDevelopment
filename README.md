@@ -36,9 +36,16 @@ The repository is organized as follows:
 
 ---
 
-## 👩‍💻 Developed By
-This project was developed by:
+## 👩‍💻 Development Team
 * **Shahed Musallm**
 * **Raghad Sweedan**
 
-*As part of the Final Project - Web Development course.*
+---
+
+## 👨‍🏫 Supervision
+* **Instructor:** Eng. Mamoun Abu Salah
+
+---
+
+### 📝 Project Context
+This project was developed as the **Final Project - Web Development** course. It demonstrates professional skills in page linking, asset management, and advanced styling.
