@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 You can visit the live website here:
-[**View Project**](https://shahed-musallm.github.io/FinalProject-WebDevelopment/FinalProject-WebDevelopment/index.html)
+[**View Project**](https://shahed-musallm.github.io/FinalProject-WebDevelopment/)
 
 ---
 
